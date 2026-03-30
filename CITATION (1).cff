@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Sistema Lotka-Volterra
+message: Gemelos Digitales
+type: software
+authors:
+  - {}
+  - given-names: Maria Fernanda
+    family-names: Antunez Rubio
+    email: L22211745@tectijuana.edu.mx
+    affiliation: Instituto Tecnológico de Tijuana
+repository-code: 'https://github.com/FernandaAntunez/Practica1GD'
+keywords:
+  - Bioestadísticos
+  - Modelo matemático
+  - Regresión no lineal
+  - Simulaciones numéricas
+  - Sistemas dinámicos no lineales
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-28'
