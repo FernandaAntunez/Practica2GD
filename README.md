@@ -3,7 +3,7 @@
 # Práctica 2: Caos en sistemas biológicos
 
 ## Información de la estudiante
-Paul A. Valle \[05211261]; paul.vt@tijuana.tecn.mx
+Fernanda Antunez \[22211745]; L22211745@tijuana.tecn.mx
 
 Gemelos Digitales
 
@@ -35,9 +35,9 @@ Palabras clave: Caos; Conjuntos Compactos Invariantes; Condiciones de Estabilida
 
 ## Actividades a realizar
 1. Diseñar un diagrama biológico sobre la dinámica del sistema y la interacción entre sus variables con las figuras de https://bioart.niaid.nih.gov/ o https://www.biorender.com/.
-2. 
-3.
-4.
+2. Diseñar un cuaderno computacional de MATLAB [.mlx].
+3. Crear un análisis matemático [.pdf]
+4. Diseñar un diagrama biológico del sistema 
 ...
 
 ## Lista de archivos incluidos en el repositorio
