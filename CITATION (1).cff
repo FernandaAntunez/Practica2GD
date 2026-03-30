@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Sistema Lotka-Volterra
+title: Caos en Sistemas Biológicos
 message: Gemelos Digitales
 type: software
 authors:
@@ -11,13 +11,13 @@ authors:
     family-names: Antunez Rubio
     email: L22211745@tectijuana.edu.mx
     affiliation: Instituto Tecnológico de Tijuana
-repository-code: 'https://github.com/FernandaAntunez/Practica1GD'
+repository-code: 'https://github.com/FernandaAntunez/Practica2GD'
 keywords:
-  - Bioestadísticos
-  - Modelo matemático
-  - Regresión no lineal
+  -  Sistema no lineal
+  - Caos; Estabilidad
   - Simulaciones numéricas
-  - Sistemas dinámicos no lineales
+  - Cáncer 
+  - Inmunoterapia
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2026-02-28'
+date-released: '2026-03-29'
